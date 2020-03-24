@@ -1,0 +1,13 @@
+D:\CursoC#\Exercicios CursoC#\Seção 4\ex006\ex006\obj\Debug\netcoreapp3.1\ex006.csprojAssemblyReference.cache
+D:\CursoC#\Exercicios CursoC#\Seção 4\ex006\ex006\obj\Debug\netcoreapp3.1\ex006.csproj.CoreCompileInputs.cache
+D:\CursoC#\Exercicios CursoC#\Seção 4\ex006\ex006\obj\Debug\netcoreapp3.1\ex006.AssemblyInfoInputs.cache
+D:\CursoC#\Exercicios CursoC#\Seção 4\ex006\ex006\obj\Debug\netcoreapp3.1\ex006.AssemblyInfo.cs
+D:\CursoC#\Exercicios CursoC#\Seção 4\ex006\ex006\bin\Debug\netcoreapp3.1\ex006.exe
+D:\CursoC#\Exercicios CursoC#\Seção 4\ex006\ex006\bin\Debug\netcoreapp3.1\ex006.deps.json
+D:\CursoC#\Exercicios CursoC#\Seção 4\ex006\ex006\bin\Debug\netcoreapp3.1\ex006.runtimeconfig.json
+D:\CursoC#\Exercicios CursoC#\Seção 4\ex006\ex006\bin\Debug\netcoreapp3.1\ex006.runtimeconfig.dev.json
+D:\CursoC#\Exercicios CursoC#\Seção 4\ex006\ex006\bin\Debug\netcoreapp3.1\ex006.dll
+D:\CursoC#\Exercicios CursoC#\Seção 4\ex006\ex006\bin\Debug\netcoreapp3.1\ex006.pdb
+D:\CursoC#\Exercicios CursoC#\Seção 4\ex006\ex006\obj\Debug\netcoreapp3.1\ex006.dll
+D:\CursoC#\Exercicios CursoC#\Seção 4\ex006\ex006\obj\Debug\netcoreapp3.1\ex006.pdb
+D:\CursoC#\Exercicios CursoC#\Seção 4\ex006\ex006\obj\Debug\netcoreapp3.1\ex006.genruntimeconfig.cache
